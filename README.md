@@ -1,9 +1,9 @@
 # First_Project
 
 
-##국비교육 프로젝트 : This is John Cinema
+## 국비교육 프로젝트 : This is John Cinema
 
-###Window Builder, Oracle SQL 프로젝트
+### Window Builder, Oracle SQL 프로젝트
 
 
 ### Presentation : 국비지원 교육과정중 프로젝트 발표를 위해 작성
