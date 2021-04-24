@@ -42,7 +42,7 @@
 + 개발
     + [ 영화와 상영날짜, 시간에따라 달라지는 예약좌석의 중복처리를 어떻게 해결할 것인가? ]
         + 데이터베이스에서 SEQ값을 호출하여 고유번호별로 for문과 arraylist를 활용하여 좌석의 예약과 선택, 미선택에 대한 구분을 로직으로 구성
-        + [SeatArray](./src/Customer/Page5.java) - 링크 수정 必
+        + [해당 코드 source](./src/Customer/Page5.java) - 링크 수정 必
 
 
 ### GitHub 구조
