@@ -19,7 +19,7 @@
 + Development Tool
     + Eclipse, Oracle SQL Developer
 + Language/Skills
-    +Java, Java Swing, jQuery
+    + Java, Java Swing, jQuery
 + DB
     + Oracle DB
 
