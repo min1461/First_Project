@@ -7,12 +7,12 @@
     + 2018.12.17 ~ 2019.1.10 참여인원 : 7명
 + Members
     + [강민규](https://github.com/min1461/)
+        + 나의 기여도 : 40% 
     + [김민석](https://github.com/MinSeok-Kim96)
     + 김서연
     + 정회승
     + [최유정](https://github.com/sun0326/)
-    + 나의 기여도 : 40%
-
+        
 ### Development Environment
 + OS
     + Window 10
