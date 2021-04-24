@@ -2,8 +2,10 @@
 
 
 ## 국비교육 프로젝트 : This is John Cinema
-### 프로젝트 기간 및 인원
-+ 2018.12.17 ~ 2019.1.10 참여인원 : 7명
+### Project Duration and Members
++ Project Duration
+    + 2018.12.17 ~ 2019.1.10 참여인원 : 7명
++ Members
     + [강민규](https://github.com/min1461/)
     + [김민석](https://github.com/MinSeok-Kim96)
     + 김서연
@@ -11,7 +13,7 @@
     + [최유정](https://github.com/sun0326/)
     + 나의 기여도 : 40%
 
-### 개발 환경
+### Development Environment
 + OS
     + Window 10
 + Development Tool
